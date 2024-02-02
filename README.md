@@ -22,7 +22,7 @@
 
 <h3>Mis estadísticas de CodeWars</h3>
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=darckis28&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=Andi_scott_aguirre_leon&top_languages=true)
 
 
 
