@@ -29,7 +29,7 @@
 
 
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=darckis28&theme=dark)]
 
 
 
