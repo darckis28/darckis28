@@ -22,7 +22,7 @@
 
 <h3>Mis estadísticas de CodeWars</h3>
 <br>
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=darckis28&theme=dark)](https://github.com/darckis28/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-darckis28.vercel.app/?username=darckis28&theme=dark)](https://github.com/darckis28/github-readme-codewars)
 
 
 
