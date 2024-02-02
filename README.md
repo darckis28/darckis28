@@ -16,8 +16,6 @@
 <hr width="36%" >
 
 <h3>Mis estadísticas de GitHub</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/darckis28/github-readme-stats)
-<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
