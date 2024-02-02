@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nonmbre es Andi </h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
@@ -17,12 +17,12 @@
 <hr width="36%" >
 
 <h3>Mis estadísticas de GitHub</h3>
-<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darckis28&layout=compact)](https://github.com/darckis28/github-readme-stats)
 
 <h3>Mis estadísticas de CodeWars</h3>
-<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=darckis28&theme=dracula)](https://github.com/darckis28/github-readme-codewars)
