@@ -22,7 +22,7 @@
 
 <h3>Mis estadísticas de CodeWars</h3>
 <br>
-[![name_only](https://github-readme-codewars-stats.herokuapp.com/api/?username=darckis28&badge&name_only)]
+![CodeWars](https://github-readme-codewars-stats.herokuapp.com/api/?username=darckis28&card&colormode=dark_mode)
 
 
 
