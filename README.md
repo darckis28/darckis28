@@ -17,7 +17,7 @@
 
 <h3>Mis estadísticas de GitHub</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darckis28)](https://github.com/darckis28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darckis28&layout=compact)](https://github.com/darckis28/github-readme-stats)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
