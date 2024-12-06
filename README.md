@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Actualmente estoy aprendiendo **Desarrollo Web Front-End**
+🌱 Actualmente en busca de mi primer empleo en  **Desarrollo Web Front-End**
 <img align="right" alt="Coding" width="300" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif">
 
 <br>
